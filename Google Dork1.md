@@ -32,9 +32,8 @@ Google Dorking: Advanced Search Techniques by Insightful Reports podcast.
 
 https://support.google.com/websearch/answer/2466433
 
-https://owasp.org/www-community/Google_Hacking
-
 Davis, The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions, Dover Publications. 2004
 
 https://www.britannica.com/science/binary-number-system
+
 
